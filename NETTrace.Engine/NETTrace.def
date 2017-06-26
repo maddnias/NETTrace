@@ -1,0 +1,5 @@
+LIBRARY "NETTrace.Engine.dll""
+
+EXPORTS
+    DllCanUnloadNow PRIVATE
+    DllGetClassObject PRIVATE

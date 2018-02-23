@@ -6,4 +6,6 @@ Tool to trace internal events in .NET assemblies
 - [ ] DnSpy integration
 - [ ] Plugin support
 - [ ] Method decompilation to C# (and VB?)
-- [ ] Event logging
+- [ ] Event logging
+
+
